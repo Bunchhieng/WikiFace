@@ -2,7 +2,7 @@ WikiFace
 ========
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Bunchhieng/WikiFace/master/src/pic.png"/>
+  <img src="https://raw.githubusercontent.com/Bunchhieng/WikiFace/master/src/public/pic.png"/>
 </p>
 
 Usage:
